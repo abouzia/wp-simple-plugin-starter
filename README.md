@@ -1,0 +1,1 @@
+"# wp-simple-plugin-starter" 
